@@ -22,7 +22,7 @@ JSX (JavaScript XML) is a syntax extension for JavaScript used in React to descr
 
 Unlike HTML, JSX can include JavaScript expressions inside curly braces `{}`, making it dynamic and powerful. These expressions allow data binding and conditional rendering directly within the UI code.
 
-Example:
+**Example:**
 
 ```jsx
 <h1 className="title">Hello, {userName}!</h1>
