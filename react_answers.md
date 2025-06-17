@@ -27,6 +27,8 @@ Example:
 ```jsx
 <h1 className="title">Hello, {userName}!</h1>
 
+---
+
 
 ## Question 4: What are props in React, and how do you pass data from a parent component to a child component?
 
@@ -44,6 +46,7 @@ function App() {
 }
 
 
+---
 
 
 
